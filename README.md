@@ -1,4 +1,4 @@
 book
 ====
 
-The Book (cf. http://www.openingscience.org/)
+This [book](http://www.openingscience.org/) is an awesome thing.
